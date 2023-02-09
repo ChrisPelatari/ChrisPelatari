@@ -4,7 +4,9 @@ Hi there :wave:
 
 I'm Chris Pelatari, a seasoned software developer with over 22 years of experience in delivering full-stack web applications using .NET technologies, including C# and VB.NET.
 
-This is where I hack. ![hacker emblem](https://chris.pelatari.com/assets/hacker.png)
+This is where I hack. 
+
+ ![hacker emblem](https://chris.pelatari.com/assets/hacker.png)
 
 <!--
 **ChrisPelatari/ChrisPelatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
