@@ -6,7 +6,7 @@ I'm Chris Pelatari, a seasoned software developer with over 22 years of experien
 
 This is where I hack. 
 
- ![hacker emblem](https://chris.pelatari.com/assets/hacker.png)
+ ![hacker emblem](https://chris.pelatari.com/assets/images/hacker.png)
 
 <!--
 **ChrisPelatari/ChrisPelatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
