@@ -1,4 +1,4 @@
-### Hi there 👋
+Professional Geek. C# asp.net hacker est. 2001 - aspinsider, former MVP
 
 <!--
 **ChrisPelatari/ChrisPelatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
