@@ -4,7 +4,7 @@ Hi there :wave:
 
 I'm Chris Pelatari. This is where I hack. 
 
-![hacker emblem](https://chris.pelatari.com/assets/images/hacker.png)
+![hacker emblem](https://chris-jekyll.pelatari.com/assets/images/hacker.png)
 
 <!--
 **ChrisPelatari/ChrisPelatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
