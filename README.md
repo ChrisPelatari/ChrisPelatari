@@ -1,8 +1,9 @@
-Professional Geek. C# asp.net hacker est. 2001 - aspinsider, former MVP
+$ whoami 
+TypeScript, C# asp.net hacker est. 2001 - aspinsider, former MVP
 
-Hi there :wave:
+What it do :wave:
 
-I'm Chris Pelatari. This is where I hack. 
+I'm Chris Pelatari, a self taught full stack hacker. Continuously learning. This is where I hack. 
 
 ![hacker emblem](https://chris-jekyll.pelatari.com/assets/images/hacker.png)
 
