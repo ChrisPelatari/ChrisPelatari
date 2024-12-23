@@ -1,4 +1,5 @@
 $ whoami 
+
 TypeScript, C# asp.net hacker est. 2001 - aspinsider, former MVP
 
 What it do :wave:
