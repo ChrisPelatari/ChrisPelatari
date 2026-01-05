@@ -5,7 +5,7 @@ $ whoami
 [Resume](https://bluefenix.net/Chris_Pelatari_Resume_.docx)
 
 ### What I bring to your team
-- **20 + years shipping production code** across healthcare, and energy domains 
+- **20 + years shipping production code** across healthcare and energy domains 
 - **Legacy-to-cloud modernizer:** cut hosting costs **65 %** by leading an AWS → Azure DevOps migration  
 - **Performance & DX fixer:** rebuilt a Vue 2/WebForms monolith as ASP.NET Core Minimal API + Vue 3, stabilizing  1,500 unit tests and eliminating 100 + build errors  
 - Hands-on with **C#, ASP.NET Core/.NET 8, Angular/Vue, Azure/AWS, Docker/K8s, GitHub Actions, SQL Server & PostgreSQL**
