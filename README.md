@@ -6,7 +6,7 @@ I build software for the oil and gas industry. **[Blue Fenix Productions](https:
 
 ### Background
 
-20+ years shipping production code across healthcare and energy. Senior .NET / full-stack engineer turned founder. Based in Houston — the center of the industries I build for.
+20+ years shipping production code across healthcare and energy. Senior .NET / full-stack engineer turned founder. Based in Houston; the center of the industries I build for.
 
 ### Let's connect
 |||
