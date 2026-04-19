@@ -2,7 +2,7 @@
 
 ## Founder & CEO, Blue Fenix Productions
 
-I build software for the oil and gas industry. **[Blue Fenix Productions](https://bluefenix.net)** — if you know what keeps explorationists up at night, we're on it.
+I build software for the oil and gas industry. **[Blue Fenix Productions](https://bluefenix.net)**: if you know what keeps explorationists up at night, we're on it.
 
 ### Background
 
