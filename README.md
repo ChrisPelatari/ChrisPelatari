@@ -2,7 +2,7 @@
 
 **Chris Pelatari** — self-taught full-stack hacker since 2001. ASPInsider, former MVP, current troublemaker.
 
-## What it do 👋
+## `$ which chris`
 
 I build software for the oil and gas industry. **[Blue Fenix Productions](https://bluefenix.net)** — if you know what keeps explorationists up at night, we're on it.
 
@@ -27,3 +27,5 @@ I build software for the oil and gas industry. **[Blue Fenix Productions](https:
 ---
 
 ![hacker emblem](https://chris-jekyll.pelatari.com/assets/images/hacker.png)
+
+`$ exit`
