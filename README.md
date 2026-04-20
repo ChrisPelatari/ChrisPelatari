@@ -4,7 +4,7 @@
 
 ## `$ which chris`
 
-I build software for the oil and gas industry. **[Blue Fenix Productions](https://bluefenix.net)**; if you know what keeps explorationists up at night, we're on it.
+I build software for the oil and gas industry. **[Blue Fenix Productions](https://github.com/BlueFenixProductions)**; if you know what keeps explorationists up at night, we're on it.
 
 20+ years shipping production code across healthcare and energy. Senior .NET / full-stack engineer turned founder. Based in Houston, TX; the center of the industries I build for.
 
