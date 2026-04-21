@@ -19,7 +19,7 @@ I build software for the oil and gas industry. **[Blue Fenix Productions](https:
 
 | | |
 |---|---|
-| 🌐 **Web** | [bluefenix.net](https://bluefenix.net) |
+| 🌐 **Web** | [bluefenixproductions.com](https://bluefenixproductions.com) |
 | 📫 **Email** | chris@bluefenix.net |
 | 💼 **LinkedIn** | [ChrisPelatari](https://linkedin.com/in/chrispelatari) |
 | 🕐 **TZ** | US Central (CDT / UTC-5) |
