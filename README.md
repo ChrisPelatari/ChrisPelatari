@@ -1,6 +1,6 @@
 # `$ whoami` 🌮
 
-**Chris Pelatari**: self-taught full-stack hacker since 2001. ASPInsider, former MVP, current troublemaker.
+**Chris Pelatari**: self-taught full-stack hacker since 2001. Former MVP, current troublemaker.
 
 ## `$ which chris`
 
