@@ -4,9 +4,9 @@
 
 ## `$ which chris`
 
-I build software for the oil and gas industry. **[Blue Fenix Productions](https://github.com/BlueFenixProductions)**; We build what's next.
+**[Blue Fenix Productions](https://github.com/BlueFenixProductions)** 
 
-20+ years shipping production code across healthcare and energy. Senior .NET / full-stack engineer turned founder. Based in Houston, TX; the center of the industries I build for.
+20+ years shipping production code across healthcare and energy. Senior .NET / full-stack engineer. Based in Houston, TX.
 
 ## `$ cat /etc/motd`
 
