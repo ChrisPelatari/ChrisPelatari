@@ -1,6 +1,6 @@
 # `$ whoami` 🌮
 
-**Chris Pelatari**: C# asp.net and TypeScript hacker est. 2001 - former MVP, current troublemaker. 
+**Chris Pelatari**: C# asp.net, TypeScript and Swift hacker est. 2001 - former MVP, current troublemaker. 
 
 Self taught full stack developer. 
 
