@@ -1,6 +1,16 @@
 # `$ whoami` 🌮
 
-**Chris Pelatari**: self-taught full-stack hacker est. 2001. Former MVP, current troublemaker.
+**Chris Pelatari**: C# asp.net and TypeScript hacker est. 2001 - former MVP, current troublemaker. 
+
+Self taught full stack developer. 
+
+#professional_geek
+
+#Alief alum. 
+
+former #cancer #caregiver
+
+#dad_jokes connoisseur.
 
 ## `$ which chris`
 
